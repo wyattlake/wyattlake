@@ -1,5 +1,3 @@
-### Hi there, I'm Wyatt
-
 ![Banner](https://i.imgur.com/G91dRpC.png)
 
 I am a 14 year old programer from the LA area and I am interested in Rust and web development. You can check out my personal site at https://wyattlakeportfolio.web.app/.
