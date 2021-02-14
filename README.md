@@ -1,8 +1,8 @@
 ![Banner](https://i.imgur.com/G91dRpC.png)
 
-I am interested in Rust and full stack development. You can check out my personal site at https://wyattlakeportfolio.web.app/.
+I am interested in Rust and full stack development. I am currently working on a new portfolio which is linked below in the projects section, but you can check out my current site at https://wyattlakeportfolio.web.app/.
 
-Here are some of my projects I am currently working on:
+Here are some projects I am currently working on:
 
 | Project Name     | Description                                        | Link                                         |
 |------------------|----------------------------------------------------|----------------------------------------------|
@@ -11,5 +11,6 @@ Here are some of my projects I am currently working on:
 | Personal Website | My personal portfolio                              | https://wyattlakeportfolio.web.app/          |
 | Rust Rasterizer  | A simple rasterizer written in Rust (WIP)          | https://github.com/wyattlake/rust-rasterizer |
 | Notes App        | A full stack notes app made with Typescript (WIP)  | https://github.com/wyattlake/notes-app       |
+| Portfolio        | My portfolio website (WIP)                         | https://github.com/wyattlake/portfolio       |
 
 Feel free to email me at lakewyatt@gmail.com
