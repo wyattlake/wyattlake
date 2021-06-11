@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/G91dRpC.png)
-
 I am interested in Rust and full stack development. I am currently working on a new portfolio which is linked below in the projects section, but you can check out my current site at https://wyattlakeportfolio.web.app/.
 
 Here are some projects I am currently working on:
